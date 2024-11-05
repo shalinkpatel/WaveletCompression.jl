@@ -1,1 +1,2 @@
 # WaveletCompression
+# WaveletCompression.jl
